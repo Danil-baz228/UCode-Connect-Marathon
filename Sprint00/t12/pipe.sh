@@ -1,0 +1,1 @@
+fgrep -wi "redpill" "$1" | sed 's/[Rr][Ee][Dd][Ii][Ll][Ll]/bluepill/g'
